@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the Rump: or, The Rump re-advanc'd. To the tune of, Up tails all.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06453</idno>
+            <idno type="STC">Wing V530A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[193]</idno>
+            <idno type="EEBO-CITATION">99885024</idno>
+            <idno type="PROQUEST">ocm99885024</idno>
+            <idno type="VID">182862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182862)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[194])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the Rump: or, The Rump re-advanc'd. To the tune of, Up tails all.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rosicleer Arsewind, the Rump's leather-seller.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "FUll many a Ballad hath been penn'd ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182862:1" rendition="simple:additions"/>
+            <head>A VINDICATION OF THE RUMP: OR, THE RUMP RE-ADVANC'D.</head>
+            <opener>To the Tune of, <hi>
+                  <g ref="char:V">Ʋ</g>p tails all.</hi>
+            </opener>
+            <lg>
+               <l>FUll many a Ballad hath been penn'd,</l>
+               <l>and ſcoffing Poem Writ</l>
+               <l>Againſt the <hi>R<g ref="char:V">Ʋ</g>MP,</hi> but I intend</l>
+               <l>to ſpeak in praiſe of it.</l>
+               <l>Come <hi>Jove</hi> and <hi>Apollo,</hi> come <hi>Venus</hi> and <hi>Mars,</hi>
+               </l>
+               <l>And lend your aſſiſtance: to ſpeak of the <hi>A</hi>—</l>
+               <l>will require a Prodigious wit.</l>
+            </lg>
+            <lg>
+               <l>There's ſcarce a Lady to be found</l>
+               <l>that loves either Pear or Plum</l>
+               <l>One halfe ſo well, if ſhe be ſound,</l>
+               <l>as tabering at her B—.</l>
+               <l>It may be, you'l ſay, I'm wide of the Caſe,</l>
+               <l>Since that Muſick's made in a diſtant place:</l>
+               <l>I anſwer, the bredth of your Thum.</l>
+            </lg>
+            <lg>
+               <l>When Alderman <hi>Atkins</hi> did bemar</l>
+               <l>his Hoſe, through a Panick fear,</l>
+               <l>And Captain <hi>Rea,</hi> that Man of War,</l>
+               <l>Oh! what a Hogo was there?</l>
+               <l>If you ask me, what praiſe is in this? at a word,</l>
+               <l>The Captain ſo fenced himſelf by a T—</l>
+               <l>that his enemies could not come near.</l>
+            </lg>
+            <lg>
+               <l>There is not a Lawyer in Countrey or Town,</l>
+               <l>whoſe Rhetorick doth prevail,</l>
+               <l>Although he hath purchas'd Fee-ſimple Gown, th'</l>
+               <l>but loves to be dealing in tail;</l>
+               <l>And I may well ſwear by <hi>Apollo</hi> or <hi>Mars,</hi>
+               </l>
+               <l>That at a place called, the <hi>Oven's Arſe,</hi>
+               </l>
+               <l>oft times I have drunken good Ale.</l>
+            </lg>
+            <lg>
+               <l>And when you are dallying with a young Maid</l>
+               <l>would you not her buttocks bethump?</l>
+               <l>And I have been often well apaid</l>
+               <l>with a Gooſe both fat and plump:</l>
+               <l>The body being eaten, we ſtrive for the tail,</l>
+               <l>Each man with his Kan'kin of nappy brown Ale,</l>
+               <l>doth box it about for the <hi>R<g ref="char:V">Ʋ</g>MP.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>R<g ref="char:V">Ʋ</g>MP</hi> of a Coney I often have ſeen</l>
+               <l>moſt piteouſly claw'd by a Ferret,</l>
+               <l>And a Capon's <hi>Rump</hi> is a bit for a Queen,</l>
+               <l>although ſhe's a perſon of merit.</l>
+               <l>In preaching &amp; praying who ſpends the whole day,</l>
+               <l>At nights keeps a <hi>Rump</hi> wherewithall for to play,</l>
+               <l>be he never ſo full of the ſpirit.</l>
+            </lg>
+            <lg>
+               <l>I wonder who firſt call'd the Parliament <hi>R<g ref="char:V">Ʋ</g>MP,</hi>
+               </l>
+               <l>ſome ſay, that it was <hi>Jack Hobby,</hi>
+               </l>
+               <l>And ſome, fiery <hi>Pryn:</hi> good wits will jump;</l>
+               <l>now I write not this to bob ye,</l>
+               <l>But only to tel ye, that good Mr. <hi>Pryn,</hi>
+               </l>
+               <l>For all that he's cropt, yet he could not get in,</l>
+               <l>but was fain to remain in the <hi>Lobby.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The other day I was going in haſte,</l>
+               <l>(to think on't, it grieves my heart)</l>
+               <l>I ſaw a poor fellow all nak'd to the waſte,</l>
+               <l>and whipt at the Arſe of a Cart:</l>
+               <l>His <hi>Rump</hi> ('tis true) ſuffer'd the rout. But I would</l>
+               <l>Fain know who it was, that durſt be ſo bold,</l>
+               <l>as to call Mr. Speaker Sir F—</l>
+            </lg>
+            <lg>
+               <l>He might as well have ſtiled him <hi>Anus,</hi>
+               </l>
+               <l>ſince he was the mouth of the <hi>R<g ref="char:V">Ʋ</g>MP,</hi>
+               </l>
+               <l>As cunning a Fox as <hi>Rome's Sejanus:</hi>
+               </l>
+               <l>but I do not love for to frump;</l>
+               <l>Or elſe I could tell ye, my friends, to an Ace,</l>
+               <l>What good can accrew to the Land by a Mace,</l>
+               <l>as long as the Knave's the great'ſt Trump.</l>
+            </lg>
+            <lg>
+               <l>Our zealous ſticklers for Reformation</l>
+               <l>will edifie on the <hi>Rump</hi> of a Siſter,</l>
+               <l>And it will never grow out of faſhion</l>
+               <l>to phyſick the tail with a Gliſter.</l>
+               <l>But beware that <hi>Monk</hi> doth not come with a bitter</l>
+               <l>Purge to our <hi>Rump,</hi> which wil make her beſhit her,</l>
+               <l>for ſhe hath already bepiſt her.</l>
+            </lg>
+            <trailer>Rumpatur.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Roſicleer Arſewind,</hi> the <hi>R<g ref="char:V">Ʋ</g>MP</hi>'s Leather-Seller.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
